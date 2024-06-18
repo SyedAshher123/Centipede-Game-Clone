@@ -34,7 +34,7 @@ Prerequisites:
 
 Steps to Run:
 
-1. Clone the repository: git clone https://github.com/yourusername/centipede-game-clone.git
+1. Download complete folder contaning cpp file, music, textures, sound effects or clone the repository.
 2. Navigate to the project directory: cd centipede-game-clone
 3. Compile the code:
    
